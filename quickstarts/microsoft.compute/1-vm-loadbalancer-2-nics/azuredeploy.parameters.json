@@ -3,16 +3,16 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": "GEN-UNIQUE"
+      "value": "omspandey"
     },
     "adminPassword": {
-      "value": "GEN-PASSWORD"
+      "value": "Password@1234"
     },
     "dnsNameforLBIP": {
-      "value": "GEN-UNIQUE"
+      "value": "omp1208"
     },
     "storageAccountName": {
-      "value": "GEN-UNIQUE"
+      "value": "ompstore1208"
     },
     "vmSize": {
       "value": "Standard_D2_v2"
